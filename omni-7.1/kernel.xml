@@ -8,4 +8,5 @@
   <project name="Galaxy-MSM8916/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" revision="cm-14.1" />
   <project name="hash07/android_kernel_samsung_core33g" path="kernel/samsung/core33g" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_kernel_asus_moorefield" path="kernel/asus/moorefield" remote="github" revision="cm-14.1" />
+  <project name="sonyxperiadev/kernel" path="kernel/sony/msm" remote="github" revision="aosp/LA.UM.5.7.r1" />
 </manifest>
