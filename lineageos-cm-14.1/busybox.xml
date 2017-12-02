@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="omnirom" fetch="git://github.com" revision="refs/heads/android-7.1" />
+  <project name="omnirom/android_external_busybox" path="external/busybox" remote="omnirom" />
+</manifest>

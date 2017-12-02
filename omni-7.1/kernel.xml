@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="TeamWin/android_kernel_motorola_msm8953" path="kernel/motorola/msm8953" remote="github" revision="twrp" />
+  <project name="Galaxy-MSM8953/android_kernel_samsung_msm8953" path="kernel/samsung/msm8953" remote="github" revision="lineage-15.0" />
+  <project name="Galaxy-MSM8916/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" revision="cm-14.1" />
+  <project name="hash07/android_kernel_samsung_core33g" path="kernel/samsung/core33g" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_asus_moorefield" path="kernel/asus/moorefield" remote="github" revision="cm-14.1" />
+</manifest>

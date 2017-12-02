@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote  name="msm8930" fetch="git://github.com"/>
+<project name="MSM8930-Samsung/android_device_samsung_msm8930-common" path="device/samsung/msm8930-common" remote="msm8930" />
+<project name="MSM8930-Samsung/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="msm8930" />
+</manifest>

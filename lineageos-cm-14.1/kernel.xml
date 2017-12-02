@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="LineageOS/android_kernel_lenovo_msm8916" path="kernel/lenovo/msm8916" remote="github" />
+<project name="LineageOS/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" />
+</manifest>

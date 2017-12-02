@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_kernel_cyanogen_msm8974" path="device/kernel/cyanogen/msm8974" remote="github" />
+  <project name="messi2050/android_kernel_lge_msm8937" path="kernel/lge/msm8937" remote="github" />
+</manifest>
