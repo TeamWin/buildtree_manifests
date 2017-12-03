@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_kernel_samsung_ks01lte" path="kernel/samsung/ks01lte" remote="github" />
+</manifest>
