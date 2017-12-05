@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="omnirom/android_kernel_lge_bullhead" path="kernel/lge/bullhead" remote="github" revision="android-6.0" />
+</manifest>
