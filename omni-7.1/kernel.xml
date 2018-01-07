@@ -11,4 +11,5 @@
   <project name="LineageOS/android_kernel_leeco_msm8996" path="kernel/leeco/msm8996" remote="github" revision="cm-14.1" />
   <project name="sonyxperiadev/kernel" path="kernel/sony/msm" remote="github" revision="aosp/LA.UM.5.7.r1" />
   <project name="HDX-TWRP/android_kernel_amazon_hdx-common" path="kernel/amazon/hdx-common" remote="github" revision="android-7.1" />
+  <project name="LineageOS/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="cm-14.1" />
 </manifest>
