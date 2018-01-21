@@ -12,4 +12,5 @@
   <project name="sonyxperiadev/kernel" path="kernel/sony/msm" remote="github" revision="aosp/LA.UM.5.7.r1" />
   <project name="HDX-TWRP/android_kernel_amazon_hdx-common" path="kernel/amazon/hdx-common" remote="github" revision="android-7.1" />
   <project name="LineageOS/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_samsung_msm8930-common" path="kernel/samsung/msm8930-common" remote="github" revision="cm-14.1" />
 </manifest>
