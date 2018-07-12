@@ -2,4 +2,5 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project name="TeamWin/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" revision="android-8.1" />
+  <project name="TeamWin/android_kernel_motorola_woods" path="kernel/motorola/woods" remote="github" revision="lineage-15.1" />
 </manifest>
