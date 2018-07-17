@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="Phoenix591/android_external_zip" path="external/zip" remote="github" revision="lineage-15.1" />
+  <project name="Phoenix591/lg-v20-tools" path="external/kdzwriter" remote="github" revision="kdzwriter" />
+</manifest>
