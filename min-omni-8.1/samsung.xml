@@ -4,4 +4,5 @@
   <project name="TeamWin/android_device_samsung_exynos7580-common" path="device/samsung/exynos7580-common" remote="github" revision="android-8.1" />
   <project name="Exynos7580/android_kernel_samsung_exynos7580-common" path="kernel/samsung/exynos7580-common" remote="github" revision="lineage-15.1" />
   <project name="devkingsteam/android_kernel_samsung_universal7885" path="kernel/samsung/universal7885" remote="github" revision="android-8.1" />
+  <project name="TeamWin/android_kernel_samsung_universal7880" path="kernel/samsung/universal7880" remote="github" revision="android-8.1" />
 </manifest>
