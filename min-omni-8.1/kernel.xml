@@ -3,5 +3,8 @@
 <manifest>
   <project name="TeamWin/android_kernel_samsung_universal9810" path="kernel/samsung/universal9810" remote="github" revision="android-8.1" />
   <project name="TeamWin/android_kernel_motorola_woods" path="kernel/motorola/woods" remote="github" revision="lineage-15.1" />
+  <project name="TeamWin/android_kernel_motorola_nicklaus" path="kernel/motorola/nicklaus" remote="github" revision="android-7.1" />
   <project name="ixmoe/android_kernel_motorola_sdm630" path="kernel/motorola/sdm630" remote="github" revision="android-8.1_twrp" />
+  <project name="racer123/android_kernel_nokia_PLE" path="kernel/nokia/PLE" remote="github" revision="master" />
+  <project name="ixmoe/android_kernel_motorola_sdm660" path="kernel/motorola/sdm660" remote="github" revision="android-8.1_twrp" />
 </manifest>
