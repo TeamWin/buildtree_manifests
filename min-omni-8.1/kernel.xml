@@ -8,4 +8,5 @@
   <project name="racer123/android_kernel_nokia_PLE" path="kernel/nokia/PLE" remote="github" revision="master" />
   <project name="ixmoe/android_kernel_motorola_sdm660" path="kernel/motorola/sdm660" remote="github" revision="android-8.1_twrp" />
   <project name="VladAndroidGamer/android_kernel_samsung_j2corelte" path="kernel/samsung/j2corelte" remote="github" revision="master" />
+  <project name="Maanush2004/android_kernel_lenovo_manning" path="kernel/lenovo/manning" remote="github" revision="twrp" />
 </manifest>
