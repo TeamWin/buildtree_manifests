@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project path="device/qcom/common" name="TeamWin/android_device_qcom_common" remote="github" revision="android-8.0"  />
+</manifest>
