@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project path="kernel/xiaomi/sm6150" name="TeamWin/android_kernel_xiaomi_sm6150" remote="github" revision="violet-p-oss"  />
+</manifest>
