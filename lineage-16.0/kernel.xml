@@ -2,4 +2,5 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project path="kernel/xiaomi/sm6150" name="TeamWin/android_kernel_xiaomi_sm6150" remote="github" revision="violet-p-oss"  />
+  <project path="kernel/razer/pearlyn" name="TeamWin/android_kernel_razer_pearlyn" remote="github" revision="lineage-16.0"  />
 </manifest>

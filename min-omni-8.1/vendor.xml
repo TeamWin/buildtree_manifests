@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <remove-project path="vendor/omni" name="android_vendor_omni" remote="omnirom" revision="android-8.1" />
+  <project name="TeamWin/android_vendor_omni" path="vendor/omni" remote="github" revision="android-8.1" />
+</manifest>
