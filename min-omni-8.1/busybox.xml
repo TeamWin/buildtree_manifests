@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--Please do not manually edit this file-->
-<manifest>
-  <project name="omnirom/android_external_busybox" path="external/busybox" remote="github" revision="android-8.1" />
-</manifest>
