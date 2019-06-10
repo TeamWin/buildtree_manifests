@@ -2,5 +2,5 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <remove-project path="system/update_engine" name="android_system_update_engine" remote="omnirom" revision="android-8.1" />
-  <project path="system/update_engine" name="TeamWin/android_system_update_engine" remote="github" revision="android-9.0"  />
+  <project path="system/update_engine" name="TeamWin/android_system_update_engine" remote="github" revision="android-8.1"  />
 </manifest>
