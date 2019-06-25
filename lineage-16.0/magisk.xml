@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Please do not manually edit this file-->
 <manifest>
-  <project path="external/magisk_prebuilt" name="TeamWin/external_magisk-prebuilt" remote="github" revision="master"  />
+  <project path="external/magisk-prebuilt" name="TeamWin/external_magisk-prebuilt" remote="github" revision="master"  />
 </manifest>
