@@ -6,4 +6,6 @@
   <project name="devkingsteam/android_kernel_samsung_universal7885" path="kernel/samsung/universal7885" remote="github" revision="android-8.1" />
   <project name="TeamWin/android_kernel_samsung_universal7880" path="kernel/samsung/universal7880" remote="github" revision="android-8.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung/" remote="github" revision="lineage-15.1" />
+  <project name="palmbeach05/android_device_samsung_j5-common" path="device/samsung/j5-common" remote="github" revision="lineage-15.1" />
+  <project name="palmbeach05/android_device_samsung_msm8916-common" path="device/samsung/msm8916-common" remote="github" revision="lineage-15.1" />
 </manifest>
