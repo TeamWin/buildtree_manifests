@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project path="external/nos/host/android" name="platform/external/nos/host/android" groups="pdk" />
+  <project path="external/nos/host/generic" name="platform/external/nos/host/generic" groups="pdk" />
+  <project path="external/nos/test/system-test-harness" name="platform/external/nos/test/system-test-harness" groups="pdk" />
+</manifest>
