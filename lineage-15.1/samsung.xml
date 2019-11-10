@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="TeamWin/android_device_samsung_j5x-common" path="device/samsung/j5x-common" remote="github" revision="lineage-15.1" />
+  <project name="TeamWin/android_device_samsung_msm8916-common" path="device/samsung/msm8916-common" remote="github" revision="lineage-15.1" />
+  <project name="TeamWin/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-15.1" />
+</manifest>

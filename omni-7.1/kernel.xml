@@ -2,8 +2,7 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project name="TeamWin/android_kernel_motorola_msm8953" path="kernel/motorola/msm8953" remote="github" revision="twrp" />
-  <project name="devkingsteam/android_kernel_samsung_universal8895" path="kernel/samsung/universal8895" remote="github" revision="twrp-se9.0" />
-  <project name="TeamWin/android_kernel_samsung_universal8895_greatlte" path="kernel/samsung/universal8895_greatlte" remote="github" revision="master" />
+  <project name="TeamWin/android_kernel_samsung_universal8895" path="kernel/samsung/universal8895" remote="github" revision="android-7.1" />
   <project name="TeamWin/android_kernel_motorola_nicklaus" path="kernel/motorola/nicklaus" remote="github" revision="android-7.1" />
   <project name="TeamWin/android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="github" revision="cm-14.1" />
   <project name="Galaxy-MSM8953/android_kernel_samsung_msm8953" path="kernel/samsung/msm8953" remote="github" revision="lineage-15.0" />
@@ -12,7 +11,9 @@
   <project name="LineageOS/android_kernel_asus_moorefield" path="kernel/asus/moorefield" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_kernel_leeco_msm8996" path="kernel/leeco/msm8996" remote="github" revision="cm-14.1" />
   <project name="sonyxperiadev/kernel" path="kernel/sony/msm" remote="github" revision="aosp/LA.UM.5.7.r1" />
-  <project name="HDX-TWRP/android_kernel_amazon_hdx-common" path="kernel/amazon/hdx-common" remote="github" revision="android-7.1" />
+  <project name="TeamWin/android_kernel_amazon_hdx-common" path="kernel/amazon/hdx-common" remote="github" revision="android-7.1" />
+  <project name="TeamWin/android_kernel_samsung_msm8226" path="kernel/samsung/msm8226" remote="github" revision="android-7.1" />
   <project name="LineageOS/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_kernel_samsung_msm8930-common" path="kernel/samsung/msm8930-common" remote="github" revision="cm-14.1" />
+  <project name="ixmoe/android_kernel_moto_shamu_t" path="kernel/moto/shamu_t" remote="github" revision="lineage-15.1" />
 </manifest>

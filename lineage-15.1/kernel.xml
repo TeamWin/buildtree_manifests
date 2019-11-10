@@ -2,4 +2,5 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project name="TeamWin/android_kernel_razer_pearlyn" path="kernel/razer/pearlyn" remote="github" revision="lineage-15.1" />
+  <project name="TeamWin/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" revision="lineage-15.1" />
 </manifest>
