@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--Please do not manually edit this file-->
-<manifest>
-  <project name="LineageOS/android_system_tools_dtbtool" path="system/tools/dtbtool" remote="github" revision="lineage-17.1" />
-</manifest>
