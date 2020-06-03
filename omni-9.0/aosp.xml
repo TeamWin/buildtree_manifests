@@ -4,5 +4,4 @@
   <project path="external/nos/host/android" name="platform/external/nos/host/android" groups="pdk" />
   <project path="external/nos/host/generic" name="platform/external/nos/host/generic" groups="pdk" />
   <project path="external/nos/test/system-test-harness" name="platform/external/nos/test/system-test-harness" groups="pdk" />
-  <project path="hardware/qcom/bootctrl" name="platform/hardware/qcom/bootctrl" groups="pdk-qcom" />
 </manifest>
