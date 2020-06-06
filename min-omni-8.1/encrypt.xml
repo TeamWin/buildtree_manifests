@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--Please do not manually edit this file-->
-<manifest>
-  <project path="external/xz-embedded" name="platform/external/xz-embedded" groups="pdk" />
-  <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
-  <project path="external/libbrillo" name="platform/external/libbrillo" groups="pdk" />
-  <project path="external/cros/system_api" name="platform/external/cros/system_api" groups="pdk" />
-</manifest>
