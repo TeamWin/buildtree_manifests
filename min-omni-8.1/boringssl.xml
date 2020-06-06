@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--Please do not manually edit this file-->
-<manifest>
- <remove-project path="external/boringssl" name="platform/external/boringssl"/>
-  <project path="external/boringssl" name="TeamWin/android_external_boringssl" remote="github" revision="android-8.1"  />
-</manifest>
