@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <remove-project path="build" name="android_build" remote="omnirom" revision="android-6.0" />
+  <project name="TeamWin/android_build" path="build" remote="github" revision="android-6.0" />
+</manifest>
