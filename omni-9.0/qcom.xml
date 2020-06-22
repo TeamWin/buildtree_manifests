@@ -3,4 +3,5 @@
 <manifest>
   <project path="device/qcom/common" name="TeamWin/android_device_qcom_common" remote="github" revision="android-9.0"  />
   <project path="hardware/qcom/bootctrl" name="TeamWin/android_hardware_qcom_bootctrl" remote="github" revision="android-9.0"  />
+  <project path="vendor/qcom/opensource/commonsys" name="omnirom/android_vendor_qcom_opensource_commonsys" remote="github" revision="android-9.0"  />
 </manifest>
