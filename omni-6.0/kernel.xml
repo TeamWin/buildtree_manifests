@@ -2,4 +2,5 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project name="omnirom/android_kernel_lge_bullhead" path="kernel/lge/bullhead" remote="github" revision="android-6.0" />
+  <project name="Teamwin/android_kernel_fairphone_fp2" path="kernel/fairphone/fp2" remote="github" revision="android-6.0" />
 </manifest>
