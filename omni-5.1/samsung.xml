@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="android_kernel_samsung_manta" path="kernel/samsung/manta" remote="omnirom" revision="android-5.1" />
+  <project path="hardware/samsung_slsi/exynos5-insignal" name="TeamWin/android_hardware_samsung_slsi_exynos5-insignal" remote="github" revision="lp5.1" />
+  <project path="hardware/samsung_slsi/exynos5433" name="TeamWin/hardware_samsung_slsi_exynos5433" remote="github" revision="lp5.1" />
+</manifest>
