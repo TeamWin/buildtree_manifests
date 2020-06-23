@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="TeamWin/android_device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="github" revision="android-5.1" />
+  <project name="omnirom/android_kernel_oppo_msm8974" path="kernel/oppo/msm8974" remote="github" revision="android-5.1" />
+</manifest>
