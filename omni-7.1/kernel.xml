@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Please do not manually edit this file-->
 <manifest>
-  <project name="TeamWin/android_kernel_motorola_msm8953" path="kernel/motorola/msm8953" remote="github" revision="twrp" />
+  <project name="TeamWin/android_kernel_motorola_msm8953" path="kernel/motorola/msm8953" remote="github" revision="android-7.1" />
   <project name="TeamWin/android_kernel_samsung_universal8895" path="kernel/samsung/universal8895" remote="github" revision="android-7.1" />
   <project name="TeamWin/android_kernel_motorola_nicklaus" path="kernel/motorola/nicklaus" remote="github" revision="android-7.1" />
   <project name="TeamWin/android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="github" revision="cm-14.1" />
