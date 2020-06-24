@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="omnirom/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="android-5.1" />
+</manifest>
