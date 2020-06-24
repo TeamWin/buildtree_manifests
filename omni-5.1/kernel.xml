@@ -2,4 +2,5 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project name="omnirom/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="android-5.1" />
+  <project name="TeamWin/android_kernel_oppo_r7f" path="kernel/oppo/r7f" remote="github" revision="android-5.1" />
 </manifest>
