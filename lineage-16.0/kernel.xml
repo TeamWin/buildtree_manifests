@@ -4,5 +4,6 @@
   <project path="kernel/xiaomi/sm6150" name="TeamWin/android_kernel_xiaomi_sm6150" remote="github" revision="violet-p-oss"  />
   <project path="kernel/razer/pearlyn" name="TeamWin/android_kernel_razer_pearlyn" remote="github" revision="lineage-16.0"  />
   <project path="kernel/google/marlin" name="LineageOS/android_kernel_google_marlin" remote="github" revision="lineage-16.0"  />
+  <project path="kernel/google/wahoo" name="TeamWin/android_kernel_google_wahoo" remote="github" revision="lineage-16.0"  />
   <project path="kernel/asus/sm8150" name="LineageOS/android_kernel_asus_sm8150" remote="github" revision="lineage-16.0"  />
 </manifest>

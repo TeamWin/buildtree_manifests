@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project path="device/google/taimen" name="LineageOS/android_device_google_taimen" remote="github" revision="lineage-16.0"  />
+</manifest>
