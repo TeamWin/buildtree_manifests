@@ -16,4 +16,5 @@
   <project name="LineageOS/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_kernel_samsung_msm8930-common" path="kernel/samsung/msm8930-common" remote="github" revision="cm-14.1" />
   <project name="ixmoe/android_kernel_moto_shamu_t" path="kernel/moto/shamu_t" remote="github" revision="lineage-15.1" />
+  <project name="TeamWin/android_kernel_huawei_hi6250" path="kernel/hauwei/hi6250" remote="github" revision="7.x" />
 </manifest>
