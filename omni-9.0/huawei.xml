@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project path="device/huawei/hi6250-common" name="TeamWin/android_device_huawei_hi6250-common" remote="github" revision="pie" />
+</manifest>
