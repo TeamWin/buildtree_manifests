@@ -7,4 +7,5 @@
   <project name="corsicanu/android_kernel_samsung_universal8895" path="kernel/samsung/universal8895" remote="github" revision="android-9.0" />
   <project name="LineageOS/android_kernel_lenovo_msm8953" path="kernel/lenovo/msm8953" remote="github" revision="lineage-16.0" />
   <project name="Teamwin/android_kernel_samsung_m20lte" path="kernel/samsung/m20lte" remote="github" revision="lineage-17.1" />
+  <project name="Teamwin/android_kernel_samsung_m30lte" path="kernel/samsung/m30lte" remote="github" revision="master" />
 </manifest>
