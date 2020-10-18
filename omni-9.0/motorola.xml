@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project path="device/motorola/msm8916-common" name="TeamWin/android_device_motorola_msm8916-common" remote="github" revision="android-9.0"  />
+</manifest>
