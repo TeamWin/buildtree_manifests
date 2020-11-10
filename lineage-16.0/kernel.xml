@@ -6,4 +6,5 @@
   <project path="kernel/google/marlin" name="LineageOS/android_kernel_google_marlin" remote="github" revision="lineage-16.0"  />
   <project path="kernel/google/wahoo" name="TeamWin/android_kernel_google_wahoo" remote="github" revision="lineage-16.0"  />
   <project path="kernel/asus/sm8150" name="LineageOS/android_kernel_asus_sm8150" remote="github" revision="lineage-16.0"  />
+  <project path="kernel/samsung/msm8226" name="LineageOS/android_kernel_samsung_msm8226" remote="github" revision="lineage-16.0"  />
 </manifest>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project path="device/samsung/msm8226-common" name="LineageOS/android_device_samsung_msm8226-common" remote="github" revision="lineage-16.0"  />
+  <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="lineage-16.0"  />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-16.0"  />
+</manifest>
