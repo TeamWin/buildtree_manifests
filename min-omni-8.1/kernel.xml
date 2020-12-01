@@ -13,6 +13,5 @@
   <project name="not7100/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" revision="android-8.1" />
   <project name="DarkLord1731/m20lte" path="kernel/samsung/universal7904" remote="github" revision="android-8.1" />
   <project name="palmbeach05/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" revision="lineage-15.1" />
-  <project name="TeamWin/android_kernel_samsung_j4ltejx" path="kernel/samsung/j4ltejx" remote="github" revision="RedLine" />
   <project name="LineageOS/android_kernel_xiaomi_msm8998" path="kernel/xiaomi/msm8998" remote="github" revision="lineage-16.0" />
 </manifest>
