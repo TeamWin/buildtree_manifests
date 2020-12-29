@@ -2,5 +2,6 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project name="TeamWin/android_device_qcom_common" path="device/qcom/common" remote="github" revision="android-8.1" />
+  <project name="TeamWin/android_device_qcom_twrp-common" path="device/qcom/twrp-common" remote="github" revision="android-8.1" />
   <project name="palmbeach05/android_device_qcom_sepolicy" path="device/qcom/sepolicy" remote="github" revision="lineage-15.1" />
 </manifest>
