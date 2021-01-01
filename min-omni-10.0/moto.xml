@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Please do not manually edit this file-->
 <manifest>
-  <project path="kernel/motorola/sdm632" name="android_kernel_motorola_sdm632" remote="TeamWin" revision="android-10-release-qpg"  />
+  <project path="kernel/motorola/sdm632" name="android_kernel_motorola_sdm632" remote="TeamWin" revision="android-10_twrp"  />
 </manifest>
