@@ -2,4 +2,5 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project path="hardware/samsung" name="TeamWin/android_hardware_samsung" remote="github" revision="lineage-16.0"  />
+  <project path="device/samsung/j5x-common" name="TeamWin/android_device_samsung_j5x-common" remote="github" revision="android-9.0"  />
 </manifest>
