@@ -4,5 +4,6 @@
   <project name="TeamWin/android_device_samsung_n80xx-common" path="device/samsung/n80xx-common" remote="github" revision="twrp" />
   <project name="TeamWin/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="twrp" />
   <project name="TeamWin/android_hardware_samsung" path="hardware/samsung" remote="github" revision="twrp" />
+  <project name="TeamWin/android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" remote="github" revision="master" />
 </manifest>
 
