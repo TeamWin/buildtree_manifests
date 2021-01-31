@@ -5,5 +5,5 @@
 <project name="Mysteryagr/Moto-C-namath-kernel" path="kernel/motorola/namath" remote="github" revision="LOS-14.1" />
 <project name="LineageOS/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" />
 <project name="TeamWin/android_kernel_razer_pearlyn" path="kernel/razer/pearlyn" remote="github" />
-<project name="TeamWin/android_kernel_samsung_n80xx" path="kernel/samsung/n80xx" remote="github" />
+<project name="TeamWin/android_kernel_samsung_n80xx" path="kernel/samsung/n80xx" remote="github" revision="twrp" />
 </manifest>
