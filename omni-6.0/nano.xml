@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-<!-- Include external LineageOS repos for nano -->
-    <project name="LineageOS/android_external_nano" path="external/nano" remote="github" revision="cm-13.0" />
-    <project name="LineageOS/android_external_libncurses" path="external/libncurses" remote="github" revision="cm-13.0" />
-    <project name="LineageOS/android_external_openssh" path="external/openssh" remote="github" revision="cm-13.0" />
-</manifest>
-
