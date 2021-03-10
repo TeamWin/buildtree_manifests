@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Please do not manually edit this file-->
 <manifest>
+  <project path="device/qcom/common" name="android_device_qcom_common" remote="TeamWin" revision="android-10"  />
   <project path="device/qcom/twrp-common" name="android_device_qcom_twrp-common" remote="TeamWin" revision="android-10"  />
   <project path="vendor/qcom/opensource/commonsys" name="android_vendor_qcom_opensource_commonsys" remote="TeamWin" revision="android-10"  />
 </manifest>
