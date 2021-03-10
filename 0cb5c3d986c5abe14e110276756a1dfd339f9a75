@@ -1,4 +1,22 @@
 {
   "pushCert": "certificate version 0.1\npusher 02AC01A7795EEEB8 1615419317 -0500\npushee ssh://gerrit.twrp.me:29418/buildtree_manifests\nnonce 1615419335-0F8EE502955F5F03EC5220DCA11463BA8A0A4536\n\n0000000000000000000000000000000000000000 0cb5c3d986c5abe14e110276756a1dfd339f9a75 refs/for/master\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEwl4aGFhPbHPCDtvWAqwBp3le7rgFAmBJV7UACgkQAqwBp3le\n7rhVYRAAgZ8Y8levWq7f+phfUro4jQfGIY1u62GTB8jwOsLipIQ2mtBZtSyQtTd2\ncVhplgVcxkeSvPhkjwvCc/qZMTftaBaRoxenu6Ri75+JQ43RDmOVDYbuGoHf4Xz4\nXrh7VcGBFGYMSJCAT4acO3UWSVmHWcKpQmexmq7SP3tZjcaZqjqQrgbax5go4Jv5\ng+jBE61rpiqmwNMSn1ZIDEJPZGWW/gzlTuCAmgUyS79ojQd9YOZ6FkEPrqdIL8JI\naSUzWj4LsTgbnCLeu/MskUN2am+ytj+s6M1i3MHy6zeQkdAEhIeoHCJMr4GfSWzW\nXvqaXa1CSaG6dyABB1SjAS5QxR8cwR2wUDR/NMAnHpfyuCGL/x+h/KLWpAVzlEEh\naxqq+iolKYEi/1CSSxC9zX9s0HEMA6Y56n9EV0P6g+krjgR1IiK4cijs5Ig5wtoJ\nV8HqfmvOEX23xKbY0riCY04c/dmZkztAGye+NTzsIXeDgfmccrHojarfQubQQiIE\nDr1XcvzxfHCLi4qw5aic8LXgVSBUify8YG4gTZBj5bGDQHqAZoTCiZBBdfhAbabX\nPp/cR3xcb0u+kgnZd7bmskHX/8lK3mV8m8F1Z9liTs3S+KOYywCPJQmq9UqhY/7m\nOtvJ8H/kk0z/jN9nGnJgmV/XHAYLEZxlruUydHdzbNSys+8x5wQ\u003d\n\u003dY1b9\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e1901db_9846aeaf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2021-03-10T23:36:18Z",
+      "side": 1,
+      "message": "Please merge. Added this repo for common gpt-utils for devices that need it.",
+      "revId": "0cb5c3d986c5abe14e110276756a1dfd339f9a75",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
 }
