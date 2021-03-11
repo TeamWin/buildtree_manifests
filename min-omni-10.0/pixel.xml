@@ -10,4 +10,5 @@
   <project path="device/google/coral-sepolicy" name="platform/device/google/coral-sepolicy" groups="generic_fs,pixel" />
   <project path="device/google/coral-kernel" name="android_device_google_coral-kernel" remote="TeamWin" revision="android-10" />
   <project path="device/google/crosshatch-sepolicy" name="device/google/crosshatch-sepolicy" groups="device,crosshatch,generic_fs" />
+  <project path="device/google/crosshatch-kernel" name="android_device_google_crosshatch-kernel" remote="TeamWin" revision="android-10" />
 </manifest>
