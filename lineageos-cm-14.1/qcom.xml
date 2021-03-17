@@ -3,5 +3,4 @@
 <remote  name="msm8930" fetch="git://github.com"/>
 <project name="MSM8930-Samsung/android_device_samsung_msm8930-common" path="device/samsung/msm8930-common" remote="msm8930" />
 <project name="MSM8930-Samsung/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="msm8930" />
-<project name="TeamWin/android_device_qcom_common" path="device/qcom/common" remote="github" revision="android-7.1" />
 </manifest>
