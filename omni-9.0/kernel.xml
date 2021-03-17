@@ -9,5 +9,5 @@
   <project name="Teamwin/android_kernel_samsung_m20lte" path="kernel/samsung/m20lte" remote="github" revision="lineage-17.1" />
   <project name="Teamwin/android_kernel_samsung_m30lte" path="kernel/samsung/m30lte" remote="github" revision="master" />
   <project name="Teamwin/android_kernel_motorola_msm8916" path="kernel/motorola/msm8916" remote="github" revision="android-9.0" />
-  <project name="Teamwin/android_kernel_xiaomi_onclite" path="kernel/xiaomi/onclite" remote="github" revision="3.2_r1" />
+  <project name="Teamwin/android_kernel_xiaomi_onclite" path="kernel/xiaomi/onclite" remote="github" revision="twrp" />
 </manifest>
