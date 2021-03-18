@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/nvidia/shieldtablet" remote="github" name="LineageOS/android_device_nvidia_shieldtablet" />
+  <project path="device/nvidia/foster" remote="github" name="LineageOS/android_device_nvidia_foster" />
+  <project path="device/nvidia/quill" remote="github" name="LineageOS/android_device_nvidia_quill" />
+  <project path="device/nvidia/galen" remote="github" name="LineageOS/android_device_nvidia_galen" />
+  <project path="device/nvidia/t124-common" remote="github" name="LineageOS/android_device_nvidia_t124-common" />
+  <project path="device/nvidia/t210-common" remote="github" name="LineageOS/android_device_nvidia_t210-common" />
+  <project path="device/nvidia/t186-common" remote="github" name="LineageOS/android_device_nvidia_t186-common" />
+  <project path="device/nvidia/t194-common" remote="github" name="LineageOS/android_device_nvidia_t194-common" />
+  <project path="device/nvidia/tegra-common" remote="github" name="LineageOS/android_device_nvidia_tegra-common" />
+  <project path="device/nvidia/shield-common" remote="github" name="LineageOS/android_device_nvidia_shield-common" />
+  <project path="device/nvidia/icera" remote="github" name="LineageOS/android_device_nvidia_icera" />
+  <project path="device/nvidia/touch" remote="github" name="LineageOS/android_device_nvidia_touch" />
+
+  <project path="kernel/nvidia/shield" remote="github" name="LineageOS/android_kernel_nvidia_shield" />
+
+  <project path="kernel/nvidia/linux-4.9/kernel/kernel-4.9" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_kernel_kernel-4.9" />
+  <project path="kernel/nvidia/linux-4.9/kernel/nvidia" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvidia" />
+  <project path="kernel/nvidia/linux-4.9/kernel/nvgpu" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvgpu" />
+
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-6.4.1" remote="github" name="LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1" />
+
+  <project path="hardware/nvidia/boot_control" remote="github" name="LineageOS/android_hardware_nvidia_boot_control" />
+  <project path="hardware/nvidia/interfaces" remote="github" name="LineageOS/android_hardware_nvidia_interfaces" />
+  <project path="hardware/nvidia/light" remote="github" name="LineageOS/android_hardware_nvidia_light" />
+  <project path="hardware/nvidia/memtrack" remote="github" name="LineageOS/android_hardware_nvidia_memtrack" />
+  <project path="hardware/nvidia/power" remote="github" name="LineageOS/android_hardware_nvidia_power" />
+  <project path="hardware/nvidia/thermal" remote="github" name="LineageOS/android_hardware_nvidia_thermal" />
+  
+  <project name="TheMuppets/proprietary_vendor_nvidia.git" remote="github" path="vendor/nvidia" />
+
+</manifest>
+
