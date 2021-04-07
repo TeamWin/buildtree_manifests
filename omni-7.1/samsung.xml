@@ -2,4 +2,10 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project name="TeamWin/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="android-7.1" />
+  <project name="android_hardware_ti_omap4" path="hardware/ti/omap4" remote="omnirom" revision="android-7.1" />
+  <project name="android_device_samsung_maguro" path="device/samsung/maguro" remote="omnirom" revision="android-7.1" />
+  <project name="android_kernel_ti_omap4" path="kernel/ti/omap4" remote="omnirom" revision="android-7.1" />
+  <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" />
+  <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7" remote="aosp" revision="master" />
+  <project name="android_packages_apps_Nfc" path="packages/apps/Nfc-nxp" remote="omnirom" revision="android-7.1-nxp" />
 </manifest>
