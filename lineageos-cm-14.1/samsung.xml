@@ -7,5 +7,6 @@
   <project name="TeamWin/android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" remote="github" revision="master" />
   <project name="TeamWin/android_device_samsung_kona-common" path="device/samsung/kona-common" remote="github" revision="twrp" />
   <project name="TeamWin/android_kernel_samsung_kona" path="kernel/samsung/kona" remote="github" revision="twrp" />
+  <project name="TeamWin/android_vendor_samsung_t0lte" path="vendor/samsung/t0lte" remote="github" revision="main" />
 </manifest>
 
