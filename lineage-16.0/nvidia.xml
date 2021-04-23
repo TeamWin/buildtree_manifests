@@ -3,6 +3,7 @@
 
   <project path="device/nvidia/shieldtablet" remote="github" name="LineageOS/android_device_nvidia_shieldtablet" />
   <project path="device/nvidia/foster" remote="github" name="LineageOS/android_device_nvidia_foster" />
+  <project path="device/nvidia/mdarcy" remote="github" name="LineageOS/android_device_nvidia_mdarcy.git" />
   <project path="device/nvidia/quill" remote="github" name="LineageOS/android_device_nvidia_quill" />
   <project path="device/nvidia/galen" remote="github" name="LineageOS/android_device_nvidia_galen" />
   <project path="device/nvidia/t124-common" remote="github" name="LineageOS/android_device_nvidia_t124-common" />
@@ -20,6 +21,16 @@
   <project path="kernel/nvidia/linux-4.9/kernel/nvidia" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvidia" />
   <project path="kernel/nvidia/linux-4.9/kernel/nvgpu" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_kernel_nvgpu" />
 
+  <project path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/tegra/common" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_tegra_common.git" />
+  <project path="kernel/nvidia/linux-4.9/hardware/nvidia/soc/tegra" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_tegra.git" />
+  <project path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/common" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_common.git" />
+  <project path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210/foster" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210_foster.git" />
+  <project path="kernel/nvidia/linux-4.9/hardware/nvidia/soc/t210" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_soc_t210.git" />
+  <project path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/common" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_common.git" />
+  <project path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/darcy" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_darcy.git" />
+  <project path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/ers" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_ers.git" />
+  <project path="kernel/nvidia/linux-4.9/hardware/nvidia/platform/t210b01/sif" remote="github" name="LineageOS/android_kernel_nvidia_linux-4.9_hardware_nvidia_platform_t210b01_sif.git" />
+
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-6.4.1" remote="github" name="LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-gnu-6.4.1" />
 
   <project path="hardware/nvidia/boot_control" remote="github" name="LineageOS/android_hardware_nvidia_boot_control" />
@@ -32,4 +43,3 @@
   <project name="TheMuppets/proprietary_vendor_nvidia.git" remote="github" path="vendor/nvidia" />
 
 </manifest>
-
