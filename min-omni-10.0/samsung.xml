@@ -2,4 +2,5 @@
 <!--Please do not manually edit this file-->
 <manifest>
   <project path="kernel/samsung/a20s" name="android_kernel_samsung_a20s" remote="TeamWin" revision="sky" />
+  <project path="kernel/samsung/sm7125" name="android_kernel_samsung_sm7125" remote="TeamWin" revision="master" />
 </manifest>
