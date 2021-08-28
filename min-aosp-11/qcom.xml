@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="android_device_qcom_twrp-common" path="device/qcom/twrp-common" remote="TeamWin" revision="android-11" />
+  <project name="android_hardware_qcom_bootctrl" path="hardware/qcom/bootctrl-caf" remote="LineageOS" revision="lineage-18.1-caf" />
+</manifest>
