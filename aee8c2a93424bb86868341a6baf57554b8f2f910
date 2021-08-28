@@ -1,4 +1,22 @@
 {
   "pushCert": "certificate version 0.1\npusher 9EC537C841413911 1630179583 -0400\npushee ssh://gerrit.twrp.me:29418/buildtree_manifests\nnonce 1630179584-B41A40C963877D25549FACEF1C1CFFB44993BF5B\n\n0000000000000000000000000000000000000000 aee8c2a93424bb86868341a6baf57554b8f2f910 refs/for/master\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEWol18TdXW9pNdPNmnsU3yEFBOREFAmEqkP8ACgkQnsU3yEFB\nORGbAA/+KmHNFIZuwpbKmYVwwZBNCxNMBo/R9dKEScyomJsYO/8higPKqIgWlRHj\nXmxQZ0pOt7tn7peStyZUqR20ZTeLYHZal344aAjv2LibPgGuU9ZPZqoSFNixaUmb\nJsGg8UQv2hrJNhGMADaHrBbLUoqr20vc1OUIAfUg09ekpjnr4JeGroK7zyFNYkIL\n7iYOLksx7imBVqxpaTE9ejZ3eXFPO9yAVXTKYcaU1++3hmdN7oqr7A/DBYKK5v4a\nzmq5UuWx0uoOiIpe5WJQ2i97FZpmsEnMQM6G6NGJk3Y24+5BZoPHYNpqyyFcrc0i\nrVxUqCckMqqdqNDGdwovu7h+mgORkg676Ik9qCpBC1XZluSVLeyOanMrAhZqU0gM\nC+IKJRPVc+qtftFj2QaT1D52qnLD7Z5xSniaRFhNFw9BKFC6hHxb1Mf5bNSfyZRo\n029UtjXJzIT2JFCWEMRj57Ga2D0KpT693yVpHukwG2I8truWlRc9Vn2wBImSOItw\nrVBfdCkaPLP30RZ7ltAMdg/QAtC0vyOcAnGrJXO5zedNPA7P6bIR/4eRUijvVgTG\nW0kPbbF0Pk7h/8VDfR6iHv+6LBWc7dSGmscLFRmcfHZ+dV6ml8TGO3QsLQc6n8gZ\nJIgLk03tRVrOVxW82XZA/xce0QHIq0ow/PgB0FWIGG249inJfx8\u003d\n\u003dXp8A\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9d466cf3_665ad2e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2021-08-28T19:42:25Z",
+      "side": 1,
+      "message": "Need this for ZenFone 8",
+      "revId": "aee8c2a93424bb86868341a6baf57554b8f2f910",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
 }
