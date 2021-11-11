@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="android_device_oppo_sdm660-common" path="device/oppo/sdm660-common" remote="TeamWin" revision="android-11" />
+</manifest>
