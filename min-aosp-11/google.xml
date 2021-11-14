@@ -8,4 +8,5 @@
   <project name="android_device_google_redbull" path="device/google/redbull" remote="TeamWin" revision="android-11" />
   <project path="hardware/google/pixel-sepolicy" name="platform/hardware/google/pixel-sepolicy" groups="generic_fs,pixel" />
   <project path="device/google/coral-sepolicy" name="device/google/coral-sepolicy" groups="device,coral,generic_fs" />
+  <project path="device/google/redbull-sepolicy" name="device/google/redbull-sepolicy" groups="device,redbull"/>
 </manifest>
