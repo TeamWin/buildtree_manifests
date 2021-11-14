@@ -6,6 +6,7 @@
   <project name="device/google/bonito-kernel" path="device/google/bonito-kernel" remote="aosp" revision="refs/tags/android-11.0.0_r29" />
   <project name="android_device_google_coral-kernel" path="device/google/coral-kernel" remote="TeamWin" revision="android-11" />
   <project name="android_device_google_redbull" path="device/google/redbull" remote="TeamWin" revision="android-11" />
+  <project name="android_device_google_redfin-kernel" path="device/google/redfin-kernel" remote="TeamWin" revision="android-11" />
   <project path="hardware/google/pixel-sepolicy" name="platform/hardware/google/pixel-sepolicy" groups="generic_fs,pixel" />
   <project path="device/google/coral-sepolicy" name="device/google/coral-sepolicy" groups="device,coral,generic_fs" />
   <project path="device/google/redbull-sepolicy" name="device/google/redbull-sepolicy" groups="device,redbull"/>
