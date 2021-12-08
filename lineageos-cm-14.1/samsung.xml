@@ -7,6 +7,6 @@
   <project name="TeamWin/android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" remote="github" revision="master" />
   <project name="TeamWin/android_device_samsung_kona-common" path="device/samsung/kona-common" remote="github" revision="twrp" />
   <project name="TeamWin/android_kernel_samsung_kona" path="kernel/samsung/kona" remote="github" revision="twrp" />
-  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="main" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
 </manifest>
 
