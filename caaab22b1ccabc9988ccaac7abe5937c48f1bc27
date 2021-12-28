@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2973d281_8fdcf162",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2021-12-28T01:57:21Z",
+      "side": 1,
+      "message": "Fixes build error for me with manifest",
+      "revId": "caaab22b1ccabc9988ccaac7abe5937c48f1bc27",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
