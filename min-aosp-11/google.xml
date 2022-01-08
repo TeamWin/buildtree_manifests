@@ -13,4 +13,5 @@
   <project path="device/google/redbull-sepolicy" name="device/google/redbull-sepolicy" groups="device,redbull"/>
   <project path="device/google/redfin-sepolicy" name="device/google/redfin-sepolicy" groups="device,redfin"/>
   <project path="device/google/crosshatch-sepolicy" name="device/google/crosshatch-sepolicy" groups="device,crosshatch"/>
+  <project name="device/google/crosshatch-kernel" path="device/google/crosshatch-kernel" remote="aosp" revision="refs/tags/android-11.0.0_r29" />
 </manifest>
