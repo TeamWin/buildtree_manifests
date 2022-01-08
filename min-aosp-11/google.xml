@@ -12,4 +12,5 @@
   <project path="device/google/coral-sepolicy" name="device/google/coral-sepolicy" groups="device,coral,generic_fs" />
   <project path="device/google/redbull-sepolicy" name="device/google/redbull-sepolicy" groups="device,redbull"/>
   <project path="device/google/redfin-sepolicy" name="device/google/redfin-sepolicy" groups="device,redfin"/>
+  <project path="device/google/crosshatch-sepolicy" name="device/google/crosshatch-sepolicy" groups="device,crosshatch"/>
 </manifest>
