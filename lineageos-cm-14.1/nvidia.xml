@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_device_nvidia_shieldtablet" path="device/nvidia/shieldtablet" remote="github" />
-  <project name="LineageOS/android_device_nvidia_foster" path="device/nvidia/foster" remote="github" />
   <project name="LineageOS/android_device_nvidia_roth" path="device/nvidia/roth" remote="github" />
   <project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia/" remote="github" />
   <project name="LineageOS/android_device_nvidia_shield-common" path="device/nvidia/shield-common" remote="github" />
