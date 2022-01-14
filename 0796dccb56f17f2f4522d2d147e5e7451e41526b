@@ -1,4 +1,22 @@
 {
   "pushCert": "certificate version 0.1\npusher 62C0B86D5916910E 1642182896 -0500\npushee ssh://gerrit.twrp.me:29418/buildtree_manifests\nnonce 1642182916-62CF189714E04BDBF14A0B01E39379539C4D476A\n\n0000000000000000000000000000000000000000 0796dccb56f17f2f4522d2d147e5e7451e41526b refs/for/master\n-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEiJO+llDGWqgtMle9YsC4bVkWkQ4FAmHhuPAACgkQYsC4bVkW\nkQ5j5A/+PK6VwWxPCiehN4tITDSRwXiMZZd1OIW231eyly8Om+6copcsDKP4As+d\nj4TLBdaWbdqyBnM7I+uQAZ6Y8XrL/kyIAucCQ6iF+XdvBiv4l2TXAO87jSP6txGQ\nmraqr80qrjfF28Cr+o/BDCTpEbxFbkQac50QRUa04UPex7C+ouc6r6L8nwdYNfJ2\nAZuGePg92s953s4vYLPguzwPUUGTOX3FgX2AP6XNMuzW4vBHI9O9KkmJfs9xWvnI\nF/hK9oCcicFoNtyROJgzCEmzuLbe0PrKCa2De8F1R69KqFLWnudUQYaK7SGHXylZ\nd5q5vRr0USwInmH1K+i1ps4+MD6CQokglEr7enxvNOu3wscov8/Jtz609JSxChCX\ndumf0XpRxgg2VJHKev0vn18xs9+laTgzylBlSHnIaZOR7RZXB62e4vvr2n8RwLh/\ncLRyUqHrHY185zqIWh0m7e1Mr5VsYbU9WzigEbwGboJN+cZ3lP8svNge+y2rGwfs\n0M/ZGDhLfjAg5TyGKP7MbH4PkgWqR0ZBiaxS+bNnWnwN/kUVASpJcOSFkjhUd2nr\nRmIh+HMDz3rR62MCwe2bod1X1npEma3cUhCWiLF19Db6yuNIrgNxtXJprmqSOFlf\nVfgNVphyeGYX/fp8pPKRkby0XSAi86ugRFRq64rIkywmfJfiuiM\u003d\n\u003d4GuP\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "edd1f050_8cc89ba6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2022-01-14T17:56:31Z",
+      "side": 1,
+      "message": "This allowed me to build it locally, so this should allow the prod build to run for m7.",
+      "revId": "0796dccb56f17f2f4522d2d147e5e7451e41526b",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
 }
