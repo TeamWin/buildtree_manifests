@@ -10,5 +10,9 @@
   <project name="TeamWin/android_device_samsung_kona-common" path="device/samsung/kona-common" remote="github" revision="twrp" />
   <project name="TeamWin/android_kernel_samsung_kona" path="kernel/samsung/kona" remote="github" revision="twrp" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
+  <project name="TeamWin/android_device_samsung_smdk5260-common" path="device/samsung/smdk5260-common" remote="github" revision="lineage-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
+  <project name="TeamWin/android_hardware_samsung_slsi-cm_exynos5260" path="hardware/samsung_slsi-cm/exynos5260" remote="github" revision="lineage-14.1" />
+  <project name="TeamWin/android_kernel_samsung_smdk5260" path="kernel/samsung/smdk5260" remote="github" revision="cm-14.1" />
 </manifest>
 
