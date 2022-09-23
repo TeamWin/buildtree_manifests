@@ -5,7 +5,6 @@
           <project path="device/google/redbull-sepolicy" name="device/google/redbull-sepolicy" groups="device,redbull,generic_fs" />
           <project path="device/google/coral-sepolicy" name="device/google/coral-sepolicy" groups="device,coral,generic_fs" />
           <project path="device/google/coral-kernel" name="device/google/coral-kernel" groups="device,coral,generic_fs" clone-depth="1" />
-          <project path="device/google/crosshatch-sepolicy" name="device/google/crosshatch-sepolicy" groups="device,crosshatch,generic_fs" />
           <project path="external/gflags" name="platform/external/gflags" groups="pdk" />
           <project path="frameworks/libs/modules-utils" name="platform/frameworks/libs/modules-utils" groups="pdk-cw-fs,pdk-fs" />
           <project path="system/server_configurable_flags" name="platform/system/server_configurable_flags" groups="pdk"/>
