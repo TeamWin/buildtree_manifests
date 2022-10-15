@@ -50,6 +50,24 @@
       "message": "I assume you want me to switch the branches to android-9.0?",
       "revId": "ea06d5c4bba055056d93b31b9f7c10778225c8c8",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3beb25ae_10d5da96",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-10-15T06:20:13Z",
+      "side": 1,
+      "message": "yeah since i cant create a branch on repos,would be perfect if you could",
+      "parentUuid": "beba775e_d3239fa1",
+      "revId": "ea06d5c4bba055056d93b31b9f7c10778225c8c8",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
