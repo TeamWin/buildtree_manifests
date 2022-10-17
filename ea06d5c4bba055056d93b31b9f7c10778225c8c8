@@ -68,6 +68,23 @@
       "parentUuid": "beba775e_d3239fa1",
       "revId": "ea06d5c4bba055056d93b31b9f7c10778225c8c8",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bedd7e90_0652de1c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 145
+      },
+      "writtenOn": "2022-10-17T06:51:56Z",
+      "side": 1,
+      "message": "@bigbiff can this and hero/hero2lte changes get merged, its tested working and curent e.7 builds are broken without this",
+      "revId": "ea06d5c4bba055056d93b31b9f7c10778225c8c8",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
