@@ -10,5 +10,6 @@
           <project path="system/server_configurable_flags" name="platform/system/server_configurable_flags" groups="pdk"/>
           <project path="prebuilts/runtime" name="platform/prebuilts/runtime" groups="pdk" clone-depth="1" />
 	  <project path="frameworks/proto_logging" name="platform/frameworks/proto_logging" groups="pdk-cw-fs,pdk-fs" />
+	  <project name="device/google/crosshatch-kernel" path="device/google/crosshatch-kernel" remote="aosp" revision="refs/tags/android-12.1.0_r4" />
 	  <project name="platform/hardware/google/interfaces" path="hardware/google/interfaces" remote="aosp" revision="refs/tags/android-12.1.0_r4" />
 </manifest>
