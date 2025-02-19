@@ -5,5 +5,4 @@
           <project path="device/google/coral-kernel" name="device/google/coral-kernel" groups="device,coral,generic_fs" clone-depth="1" />
           <project path="device/google/crosshatch-sepolicy" name="device/google/crosshatch-sepolicy" groups="device,crosshatch,generic_fs" />
 	  <project name="device/google/crosshatch-kernel" path="device/google/crosshatch-kernel" remote="aosp" revision="refs/tags/android-12.1.0_r4" />
-	  <project name="platform/hardware/google/interfaces" path="hardware/google/interfaces" remote="aosp" revision="refs/tags/android-12.1.0_r4" />
 </manifest>
